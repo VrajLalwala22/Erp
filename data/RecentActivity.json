@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "action": "New order received",
+    "details": "Order #INV-2024-001 from John Doe",
+    "time": "2 minutes ago",
+    "type": "order"
+  },
+  {
+    "id": 2,
+    "action": "Product updated",
+    "details": "iPhone 14 Pro price changed to $999",
+    "time": "15 minutes ago",
+    "type": "product"
+  },
+  {
+    "id": 3,
+    "action": "Customer registered",
+    "details": "New customer: Jane Smith",
+    "time": "1 hour ago",
+    "type": "customer"
+  },
+  {
+    "id": 4,
+    "action": "Stock adjustment",
+    "details": "Samsung Galaxy S23 stock increased by 10",
+    "time": "2 hours ago",
+    "type": "stock"
+  }
+]
